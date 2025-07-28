@@ -153,3 +153,4 @@ if __name__ == "__main__":
 # This code calculates various financial metrics for mutual fund schemes based on their NAVs and compares them against a benchmark.
 # It filters schemes based on a list of target scheme codes and outputs the results to an Excel file.
 # Ensure that the paths for DATA_PATH and OUTPUT_PATH are correctly set before running the script.  
+# Thank you for using this code! If you have any questions or need further assistance, feel free to ask.
